@@ -1,5 +1,5 @@
 <img align="right" src="https://avatars.githubusercontent.com/u/105908241?s=400&u=b37777470d8d29acd6c2745915f3d7893671b45e&v=4" width="300"/>
-<h1>Hello, Everybody!<Br> I'm an elementary school student who likes coding.</h1>
+<h1>Hello, Everybody!<Br> I'm a middle school student who likes coding.</h1>
 <hr>
 <h3>Q : When did I first learn coding?</h3>
 <h4>A : I learned coding first was 2021.08</h4>
